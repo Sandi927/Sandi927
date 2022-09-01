@@ -9,3 +9,6 @@ Sandi927/Sandi927 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 (:windows \ system32>netsh wlan show profile 
+git remote add origin https://github.com/Sandi927/despo.git
+git branch -M main
+git push -u origin main
